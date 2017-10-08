@@ -21,11 +21,12 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#1d212d"
+        "#1d212d",
+        "#5b5b5b"
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 16,
+    "uniqCompNum": 19,
     "versionPublish": "4.3.2"
   },
   "pages": {
@@ -69,7 +70,7 @@
             "overlayOpacity": 0.5
           },
           "title": "WELCOME TO THE FUTURE.",
-          "text": "Malaysia's Esports Dojo.",
+          "text": "Made in Malaysia Esports Dojo... and we love video games.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://kitamen.my\" data-toolbar=\"-mbrBtnMove\">VISIT OUR MAIN PAGE</a>",
           "_tags": [
             "Theme"
@@ -212,7 +213,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": "2",
             "paddingBottom": "1",
             "columns": 4,
@@ -291,33 +292,44 @@
           },
           "title1": "KITAMEN OUTLET LICENSING",
           "subtitle1": "17 and counting nationwide",
-          "caption1": "Started back in 2016, we have partnered with driven technopreneuers nationwide. <br><br>Highly focuses on local district esports activities, we wish to build the future of our young talents in esports, via our programs and engagements, through our partners.",
+          "caption1": "Started back in 2016, we have partnered with driven technopreneuers nationwide. <br><br>Highly focuses on local district esports activities, our mission is to build the future of our young talents in esports, via our programs and engagements, through our partners.<br><br><br><br>",
           "title2": "KITAMEN ESPORTS",
           "subtitle2": "Our premium community tournament.",
-          "caption2": "Since establishement in April 2017, we have 4 sanctions ; <br><b>DOTA 2, Street Fighter 5, Counter Strike : GO &amp; FIFA.</b><br>Our aim is to provide platforms for newcomers to engage and experience tournaments.",
-          "title3": "KITAMEN <br>All-In-One Entertainment Solution",
-          "subtitle3": "Plethora of machines and contents to choose from.",
-          "caption3": "We provide the latest tech for your corporate and private functions. <br>Ranging from VR, Consolers, PC and Simulators, we are your solution.<br>Just have fun, and we take care of the rest.",
+          "caption2": "Since establishement in April 2017, <br>we have 4 sanctions ; <br><b>DOTA 2, Street Fighter 5, </b><br><b>Counter Strike : GO &amp; FIFA.</b><br>Our aim is to provide platforms for newcomers to engage and experience tournaments.<br><br><br>",
+          "title3": "KITAMEN Entertainment Solution",
+          "subtitle3": "Endless fun and groundbreaking contents.",
+          "caption3": "We provide the latest tech for your corporate and private functions. Ranging from VR, Consoles, PC and Simulators, we are your go to guy.<br><br>Just have fun, and we take care of the rest.<br><br><br><br><br>",
           "title4": "KITAMEN EVENTS TEAM",
           "subtitle4": "We build dreams.",
-          "caption4": "We create memorable and amazing esports event ; <br>via our professionals partners and affiliates worldwide.<br><br><br>",
+          "caption4": "We create memorable and amazing esports event ; <br>via our professionals partners and affiliates worldwide.<br><br><br><br><br><br><br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>VISIT OUR OUTLETS</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://facebook.com/kitamen\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>NEED PARTNERS?</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.kitamen.my/products/rentalsolutions/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>LET'S SEE WHAT WE GOT</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LET US KNOW HOW WE CAN HELP</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-5"
+          "_anchor": "features3-5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H4": {
+              "text-align": "left"
+            },
+            "H5": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -387,6 +399,116 @@
         },
         {
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-13-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-13-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-83-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-83-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-5334-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5334-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-3123-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-3123-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-3500-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-3500-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-407-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-407-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-967-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-967-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-mg-7293-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-7293-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-h"
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -439,6 +561,31 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": 3,
+            "facebook": "Kitamen",
+            "twitter": "",
+            "google": "",
+            "youtube": "kitamen",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-g"
         }
       ]
     }
