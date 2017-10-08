@@ -20,7 +20,9 @@
         "isScrollToTopButton": true,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#1d212d"
+      ]
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 16,
@@ -62,13 +64,13 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayColor": "#1d212d",
             "overlayOpacity": 0.5
           },
           "title": "WELCOME TO THE FUTURE.",
           "text": "Malaysia's Esports Dojo.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://kitamen.my\" data-toolbar=\"-mbrBtnMove\">VISIT OUR MAIN PAGE</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://kitamen.my\" data-toolbar=\"-mbrBtnMove\">VISIT OUR MAIN PAGE</a>",
           "_tags": [
             "Theme"
           ],
