@@ -521,7 +521,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Talk to Us</a>",
-          "text1": "<strong>Address</strong><br>A-3A-06, One South Street Mall,Serdang Perdana\n<br>43300,Seri Kembangan, Selangor,<br> Malaysia.<br><br><br>\n<strong>Contacts<br></strong><br><b>Kitamen Outlet License Inquiry</b><br>solutions@kitamen.my\n<br><br><b>Rentals and Technical Inquiry\n</b><br>+6017-581 9375\n<br>sales@kitamen.my<br><br><b>Others</b><br>hello@kitamen.my",
+          "text1": "<strong>Address<br></strong><br>A-3A-06, One South Street Mall,Serdang Perdana\n<br>43300,Seri Kembangan, Selangor,<br> Malaysia.<br><br><br>\n<strong>Contacts<br></strong><br><b>Kitamen Outlet License Inquiry<br></b>solutions@kitamen.my\n<br><br><b>Rentals and Technical Inquiry <br></b>+6017-581 9375\n<br>sales@kitamen.my<br><br><b>Others/Sponsorships</b><br>hello@kitamen.my",
           "text2": "<div><font color=\"#bcbcbc\"><span style=\"font-size: 14px;\"></span></font></div>",
           "form": {
             "title": "MESSAGE",
