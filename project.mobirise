@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-10-05_0057",
+    "name": "KITAMEN",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -26,8 +26,10 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 21,
-    "versionPublish": "4.3.2"
+    "uniqCompNum": 29,
+    "versionPublish": "4.3.4",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -67,7 +69,7 @@
             },
             "overlay": true,
             "overlayColor": "#1d212d",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.2"
           },
           "title": "WELCOME TO THE FUTURE.",
           "text": "Made in Malaysia Esports Dojo... and we love video games.",
@@ -290,7 +292,7 @@
               "active": true
             }
           },
-          "title1": "KITAMEN OUTLET LICENSING",
+          "title1": "KITAMEN DOJO LICENSING",
           "subtitle1": "17 and counting nationwide",
           "caption1": "Started back in 2016, we have partnered with driven technopreneuers nationwide. <br><br>Highly focuses on local district esports activities, our mission is to build the future of our young talents in esports, via our programs and engagements, through our partners.<br><br><br>",
           "title2": "KITAMEN ESPORTS",
@@ -511,10 +513,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mg-83-2000x1333-800x533.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
@@ -522,11 +524,12 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/comments_bg.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-favicon.png",
               "width": 128,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -535,24 +538,31 @@
               "family": "MobiriseIcons",
               "link": "",
               "size": "",
-              "color": "#ffffff",
-              "active": true
+              "color": "#ffffff"
             }
           },
-          "text1": "<strong>Address</strong><br>A-3A-06, One South Street Mall,Serdang Perdana \n<br>43300,Seri Kembangan, Selangor,\n<br>Malaysia.<br>",
-          "text2": "<strong>Contacts</strong><br><b>Kitamen Outlet License Inquiry\n</b><br>solutions@kitamen.my \n<br>\n<br><b>Rentals and Technical Inquiry \n</b><br>+6017-581 9375 \n<br>sales@kitamen.my\n<br>\n<br><b>Others/Sponsorships\n</b><br>hello@kitamen.my<br>",
+          "text1": "<b>ADDRESS</b><br>A-3A-06, One South Street Mall,Serdang Perdana \n<br>43300,Seri Kembangan, Selangor,\n<br>Malaysia.<br>",
+          "text2": "<b>CONTACTS</b><br><br><b>Kitamen Outlet License Inquiry\n</b><br>solutions@kitamen.my \n<br>\n<br><b>Rentals and Technical Inquiry \n</b><br>+6017-581 9375 \n<br>sales@kitamen.my\n<br>\n<br><b>Others/Sponsorships\n</b><br>hello@kitamen.my<br>",
           "text3": "<br><br>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-k"
+          "_anchor": "contacts1-k",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "postToLoad": 3,
             "facebook": "Kitamen",
             "twitter": "",
